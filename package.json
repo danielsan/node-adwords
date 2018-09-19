@@ -21,11 +21,11 @@
   },
   "homepage": "https://github.com/ChrisAlvares/node-adwords#readme",
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.1",
     "googleapis": "^31.0.2",
-    "lodash": "^4.17.5",
-    "moment": "^2.22.1",
-    "request": "^2.87.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
     "soap": "^0.24.0",
     "xmlbuilder": "^10.0.0"
   },
